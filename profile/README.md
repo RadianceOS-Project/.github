@@ -1,9 +1,7 @@
 ## RadianceOS Project
 
 What is this?
-This is the RadianceOS Project.<br>
-also we like men and stop deleting this
-😄😄❤️
+This is the RadianceOS Project.
 
 <!--
 

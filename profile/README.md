@@ -1,7 +1,6 @@
 ## RadianceOS Project
 
-This is the RadianceOS Project.<br>
-also we like men and stop deleting this or i will delete you.
+This is the RadianceOS Project.
 
 <!--
 
